@@ -2,6 +2,11 @@
 
 A job search similar to https://www.seek.com.au/ application built with React, Redux
 
+
+![Screen Shot 2022-10-24 at 4 45 03 am](https://user-images.githubusercontent.com/37270379/197410531-9360d3f7-d1ef-4708-94da-47b9fdcf7f69.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
