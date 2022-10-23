@@ -1,6 +1,6 @@
 # I-SEEK
 
-A job search similar to seek.com.au application built with React, Redux
+A job search similar to https://www.seek.com.au/ application built with React, Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
